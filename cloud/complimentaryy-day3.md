@@ -2,7 +2,7 @@
 title: "Complimentary — Day #3"
 category: Cloud
 difficulty: Easy
-date: 2026-10-22
+date: 2026-07-29
 event: "TryHackMe Hacker Holidays"
 tags: [AWS, Cognito, DynamoDB, CTF]
 ---
