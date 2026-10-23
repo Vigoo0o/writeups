@@ -1,6 +1,6 @@
 ---
 title: "Do Not Disturb — Day #7"
-category: "Web / Boot2Root"
+category: "Boot2Root"
 difficulty: "Medium"
 date: "2026-08-02"
 event: "TryHackMe Hacker Holidays"

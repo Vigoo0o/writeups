@@ -1,6 +1,6 @@
 ---
 title: "Infinity Pool — Day #11"
-category: "Web / Boot2Root"
+category: "Boot2Root"
 difficulty: "Medium"
 date: "2026-08-06"
 event: "TryHackMe Hacker Holidays"
